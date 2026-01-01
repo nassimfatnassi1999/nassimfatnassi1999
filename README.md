@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Cloud Architect <br>🌱 Learning about DevOps and cloud technologies to enhance my software deployment skills<br>👯 Looking to collaborate on projects related to web applications and deployment using K8S & Docker<br>💬 Happy to chat about devops and deployment, software architecture, or any tech-related topics.<br>💡 Passionate about continuous learning and staying up-to-date with the latest trends in Cloud Computing<br>📚 Currently diving into the world of artificial intelligence and machine learning, exploring tools
+🔭 Cloud And DevOps Engineer <br>🌱 Learning about DevOps and cloud technologies to enhance my software deployment skills<br>👯 Looking to collaborate on projects related to web applications and deployment using K8S & Docker<br>💬 Happy to chat about devops and deployment, software architecture, or any tech-related topics.<br>💡 Passionate about continuous learning and staying up-to-date with the latest trends in Cloud Computing<br>📚 Currently diving into the world of artificial intelligence and machine learning, exploring tools
 
 
 ## 🌐 Socials:
