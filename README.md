@@ -1,30 +1,178 @@
-# 💫 About Me:
-🔭 Cloud And DevOps Engineer <br>🌱 Learning about DevOps and cloud technologies to enhance my software deployment skills<br>👯 Looking to collaborate on projects related to web applications and deployment using K8S & Docker<br>💬 Happy to chat about devops and deployment, software architecture, or any tech-related topics.<br>💡 Passionate about continuous learning and staying up-to-date with the latest trends in Cloud Computing<br>📚 Currently diving into the world of artificial intelligence and machine learning, exploring tools
+<div align="center">
 
+# Nassim Fatnassi Hnifi
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fatnassi.nassim.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nassim_fatnassi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nassim-fatnassi-hnifi-a1698a186/) 
+**Software Engineer · Cloud, DevOps & Platform Engineering**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white) ![Strimzi](https://img.shields.io/badge/Strimzi-%230066CC.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nassimfatnassi1999&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nassimfatnassi1999&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nassimfatnassi1999&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build and operate software from application code to production infrastructure—combining full-stack engineering, cloud-native delivery, automation, observability, and systems administration.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nassimfatnassi1999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassim-fatnassi-hnifi-a1698a186/)
+[![Email](https://img.shields.io/badge/Email-Let's%20talk-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:Fatnassihnifi.nassim@proton.me)
+[![Resume](https://img.shields.io/badge/Resume-Cloud%20%26%20DevOps-34A853?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-ql96PCwiaMvd_C-gh1tQtg7pnUA3oP3/view?usp=sharing)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nassimfatnassi1999)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+`Cloud Architecture` · `Kubernetes` · `CI/CD` · `Infrastructure as Code` · `Full Stack` · `AI-enabled Products`
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nassimfatnassi1999&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nassimfatnassi1999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About me
+
+I am a software engineer focused on the intersection of **cloud infrastructure, DevOps, platform engineering, full-stack development, and systems operations**. My work spans TypeScript applications, mobile products, container platforms, cloud automation, production deployment, monitoring, and infrastructure security.
+
+- 🔭 Currently working as a **Full Stack & Systems Engineer at APPRENSUR**.
+- ☁️ Previously worked on Azure infrastructure, Kafka on AKS, and observability at **Devoteam**.
+- 🧩 Comfortable moving across application, data, platform, and operating-system layers.
+- 🌍 Professional working proficiency in **Arabic, French, and English**.
+- 🤝 Interested in Cloud, DevOps, Platform, Full Stack, and applied AI engineering opportunities.
+
+> I learn systems by building them, operating them, and documenting the decisions behind them.
+
+## 🎯 Areas of expertise
+
+| Domain | Focus |
+| --- | --- |
+| **Cloud & platform** | AWS, Microsoft Azure, Google Cloud, OpenStack, cloud architecture, AKS |
+| **DevOps & delivery** | CI/CD, GitOps, Jenkins, GitLab CI/CD, Argo CD, release automation |
+| **Containers** | Docker, Docker Compose, Kubernetes, Helm, Strimzi |
+| **Infrastructure** | Terraform, OpenTofu, Ansible, Bash, Linux VPS, Nginx, PM2 |
+| **Full stack** | NestJS, Next.js, React, TypeScript, Flutter, Spring Boot, Laravel |
+| **Data & messaging** | PostgreSQL, MySQL, Prisma, Redis, MinIO, Apache Kafka |
+| **Operations** | Prometheus, Grafana, Zabbix, EFK, Loki, logging, alerting, backup and restore |
+| **Systems & networking** | Linux, Windows Server, TCP/IP, DNS, DHCP, VLAN, VPN, firewall, SSH |
+| **Security** | RBAC, JWT, TLS, UFW, Fail2ban, pfSense, OpenVPN, Trivy, Vault, Snort IDS |
+| **Applied AI** | Speech-to-text, LLM-assisted content generation, Python, Jupyter-based analysis |
+
+## 🧰 Technology stack
+
+The stack is grouped by engineering responsibility instead of presented as an undifferentiated badge collection.
+
+| Category | Technologies |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript, Python, Go, Java, Dart, Bash, C, C#, PHP, HCL, YAML |
+| **Frontend & mobile** | React, Next.js, Angular, Flutter, Vite, Tailwind CSS, Bootstrap |
+| **Backend & APIs** | NestJS, Node.js, Spring Boot, .NET, Laravel, Beego, REST, Swagger/OpenAPI, WebSocket |
+| **Cloud platforms** | AWS, Azure, GCP, OpenStack, AKS |
+| **Containers & orchestration** | Docker, Docker Compose, Kubernetes, Helm, Strimzi |
+| **Infrastructure as Code** | Terraform, OpenTofu, Ansible, OpenStack Heat |
+| **CI/CD & GitOps** | Jenkins, GitLab CI/CD, Argo CD, Git, GitHub, SonarQube/SonarCloud, Nexus |
+| **Databases & storage** | PostgreSQL, MySQL, MongoDB, Oracle Database, Redis, MinIO, NFS, Ceph, RAID |
+| **Messaging** | Apache Kafka, Strimzi, Socket.IO |
+| **Monitoring & logging** | Prometheus, Grafana, Zabbix, EFK, Loki, Promtail |
+| **Operating systems** | Linux—Ubuntu, Manjaro, Pop!_OS—and Windows Server |
+| **Virtualization** | VMware, Proxmox, KVM, VirtualBox, Vagrant |
+| **Networking & security** | TCP/IP, DNS, DHCP, HTTP/S, VLAN, VPN, SSH, pfSense, OpenVPN, Snort, UFW, Fail2ban, Trivy, Vault |
+| **AI / ML** | Deepgram speech recognition, Groq-hosted LLM workflows, Python, Jupyter Notebook |
+
+<details>
+<summary><strong>How these capabilities connect</strong></summary>
+
+```text
+React / Next.js / Flutter
+          ↓
+NestJS / REST / WebSocket ──→ PostgreSQL / Redis / MinIO / Kafka
+          ↓
+Docker ──→ Kubernetes / AKS ──→ AWS / Azure / GCP / OpenStack
+          ↓
+Terraform / Ansible / Argo CD / Jenkins
+          ↓
+Prometheus / Grafana / EFK / Zabbix
+```
+
+</details>
+
+## 🚀 Featured projects
+
+| Project | Engineering highlights |
+| --- | --- |
+| **[Stockini](https://github.com/nassimfatnassi1999/stockini)** | Spare-parts stock management platform built with **Next.js, NestJS, PostgreSQL, Prisma, React Query, Tailwind CSS, MinIO, and Docker Compose**. Separates dashboard, API, database, and object storage concerns; includes JWT authentication, Swagger documentation, migrations, seeding, Makefile workflows, production deployment scripts, and integrity-checked PostgreSQL/MinIO backup and restore. |
+| **[Z — AI Voice Messaging](https://github.com/nassimfatnassi1999/z-app-backend)** · **[Mobile UI](https://github.com/nassimfatnassi1999/z-flutter-UI)** | A **Flutter + NestJS** application that turns multilingual speech into structured professional messages. The backend combines Deepgram transcription, LLM-assisted generation, PostgreSQL/Prisma, JWT, Socket.IO discussions, email verification, and Firebase notifications. Docker-based deployment includes health checks, environment validation, migration checks, and operational scripts. |
+| **[KubeMastery](https://github.com/nassimfatnassi1999/kubeMastery)** | Offline-first **Flutter** learning companion for Kubernetes fundamentals and KCNA, CKAD, CKA, and CKS preparation. Uses a layered architecture, Provider, Hive, Freezed, bundled JSON content, widget tests, progress analytics, flashcards, and exam simulations. Runs without an account, backend, or network connection. |
+| **[Kafka + Argo CD GitOps](https://github.com/nassimfatnassi1999/kafka-argoCD)** | Declarative Kubernetes platform for **Apache Kafka with Strimzi**, continuously delivered through Argo CD. Kustomize-managed applications add AKHQ, Prometheus/Grafana monitoring, alerting, and centralized EFK logging; the companion **[Kafka on AKS](https://github.com/nassimfatnassi1999/Kafka-kubernetes)** project provisions Azure infrastructure with Terraform. |
+| **[DevOps Toolbox](https://github.com/nassimfatnassi1999/scripts-bash)** | Portable Bash automation for Linux/macOS administration, cloud CLIs, Docker, Kubernetes, Terraform/OpenTofu, Ansible, Jenkins, backups, networking, security, and troubleshooting. Includes a shared library, central launcher, dry-run support, safety confirmations, Bash syntax validation, ShellCheck, and shfmt integration. |
+
+<details>
+<summary><strong>More public engineering work</strong></summary>
+
+- **[ESPREAT](https://github.com/nassimfatnassi1999/ESPREAT)** — Angular/Spring Boot microservices deployed to Azure Kubernetes Service with Terraform.
+- **[OpenVPN VM](https://github.com/nassimfatnassi1999/OpenVpn-VM)** — Terraform-backed VPN infrastructure and Linux client setup documentation.
+- **[Beego JWT API](https://github.com/nassimfatnassi1999/beego-jwt-vergo)** — Go REST API using Beego, JWT authentication, and MySQL.
+- **[Library Management System](https://github.com/nassimfatnassi1999/Library-Management-System)** — Go CLI for catalog, user, lending, and return workflows.
+- **[Portfolio](https://github.com/nassimfatnassi1999/portfolio-nassim)** — Bilingual React/TypeScript portfolio with role-specific Cloud, Software, and Systems views.
+
+</details>
+
+## 💼 Professional experience
+
+| Period | Role | Impact and scope |
+| --- | --- | --- |
+| **Jan 2025 – Present** | **Full Stack & Systems Engineer · APPRENSUR** | Builds CRM and business applications with React, Next.js, NestJS, PostgreSQL, Prisma, MinIO, JWT, and RBAC. Operates Linux VPS deployments with Nginx, PM2, TLS, backups, CI/CD, monitoring, troubleshooting, and performance work. |
+| **Feb 2025 – Aug 2025** | **Cloud Engineer · Devoteam** | Designed and automated Azure infrastructure; deployed Kafka on AKS with Strimzi; implemented monitoring and centralized logging with Prometheus, Grafana, and EFK. |
+| **Jun 2024 – Aug 2024** | **DevOps Engineer Intern · Capgemini Engineering** | Built a full-stack application and automated its delivery pipeline; containerized and orchestrated services with Docker and Kubernetes. |
+| **Jul 2023 – Sep 2023** | **Full Stack Engineer Intern · BH Bank** | Developed a Laravel, MySQL, and Bootstrap application that digitized trainee and HR workflows. |
+| **Feb 2021 – Jun 2021** | **IT Technician Intern · Tunisair Technics** | Built an RFID-based stock-management system with JavaFX and MySQL for tracking aircraft parts. |
+
+## 🎓 Education & certification
+
+| Education | Institution | Period |
+| --- | --- | --- |
+| **National Engineering Degree in Computer Science** — Cloud Computing, DevOps, Software Engineering, Networking, Distributed Systems | ESPRIT, Tunisia | 2022 – 2025 |
+| **Bachelor's Degree in Mechatronics Engineering** — Industrial Automation, Embedded Systems, Networks, IT Infrastructure | ISET Béja, Tunisia | 2018 – 2021 |
+
+| Certification | Issuer | Validity |
+| --- | --- | --- |
+| **[MultiCloud Network Associate](https://www.credly.com/badges/b518bd52-eba0-4859-aaf7-d8d671686ea2/public_url)** | Aviatrix | Valid through September 2028 |
+
+## 🌱 Current learning
+
+- Deepening **AI/ML engineering** through speech recognition, LLM-assisted workflows, and practical product development.
+- Building structured knowledge across **Kubernetes architecture, application workloads, security, and CNCF certification domains** through KubeMastery.
+- Refining production practices for **GitOps, observability, backup integrity, platform security, and reliable cloud delivery**.
+
+## 🌐 Open source & public engineering
+
+My public repositories focus on reusable learning tools, infrastructure examples, automation, and complete product implementations. Current themes include Kubernetes education, DevOps scripting, Kafka operations, Terraform provisioning, Go APIs, and Flutter applications.
+
+- Issues and focused pull requests are welcome where a repository's contribution guidance allows them.
+- Each repository documents its own licensing status; public source availability should not be assumed to grant reuse rights without a declared license.
+- I value reproducible setup instructions, architecture notes, safe automation, and operational documentation alongside code.
+
+## 🔬 Research, hackathons & applied innovation
+
+**[FairAid — Empower X-Hack](https://github.com/nassimfatnassi1999/Hackathon_Blockchain)** explores transparent aid distribution through AI-assisted demand analysis, blockchain transaction traceability, and smart-contract automation. The repository includes Jupyter-based analysis material, the application/contract package, and project documentation.
+
+## 📊 GitHub activity
+
+<div align="center">
+
+![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nassimfatnassi1999&theme=github_dark)
+
+![GitHub statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nassimfatnassi1999&theme=github_dark)
+![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nassimfatnassi1999&theme=github_dark)
+
+![Contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=nassimfatnassi1999&theme=github-dark-blue&hide_border=true)
+
+![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nassimfatnassi1999&theme=github-compact&hide_border=true)
+
+</div>
+
+> Language cards describe public repository composition; they are not a measure of proficiency.
+
+## 📬 Contact
+
+| Channel | Link |
+| --- | --- |
+| **LinkedIn** | [nassim-fatnassi-hnifi](https://www.linkedin.com/in/nassim-fatnassi-hnifi-a1698a186/) |
+| **Email** | [Fatnassihnifi.nassim@proton.me](mailto:Fatnassihnifi.nassim@proton.me) |
+| **Cloud & DevOps resume** | [View on Google Drive](https://drive.google.com/file/d/1-ql96PCwiaMvd_C-gh1tQtg7pnUA3oP3/view?usp=sharing) |
+| **Software Engineering resume** | [View on Google Drive](https://drive.google.com/file/d/1EIeWTHW6uGZp7pi7e_jrUL7u_rhMprKl/view?usp=sharing) |
+| **Portfolio source** | [github.com/nassimfatnassi1999/portfolio-nassim](https://github.com/nassimfatnassi1999/portfolio-nassim) |
+
+---
+
+<div align="center">
+
+**Open to conversations about software engineering, cloud platforms, DevOps, infrastructure, and applied AI.**
+
+</div>
