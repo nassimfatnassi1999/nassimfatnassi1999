@@ -146,18 +146,17 @@ My public repositories focus on reusable learning tools, infrastructure examples
 
 <div align="center">
 
-![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nassimfatnassi1999&theme=github_dark)
-
-![GitHub statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nassimfatnassi1999&theme=github_dark)
-![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nassimfatnassi1999&theme=github_dark)
-
-![Contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=nassimfatnassi1999&theme=github-dark-blue&hide_border=true)
-
-![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nassimfatnassi1999&theme=github-compact&hide_border=true)
+<a href="https://github.com/nassimfatnassi1999">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-overview-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-overview-light.svg">
+    <img alt="GitHub statistics and top languages for Nassim Fatnassi Hnifi" src="./assets/profile-overview-light.svg" width="100%">
+  </picture>
+</a>
 
 </div>
 
-> Language cards describe public repository composition; they are not a measure of proficiency.
+The card is generated weekly from the official GitHub REST API and stored in this repository—no statistics-card service is called when the profile loads. For the canonical contribution calendar and complete activity history, [view my GitHub profile](https://github.com/nassimfatnassi1999). Language percentages describe public repository content; they are not a measure of proficiency.
 
 ## 📬 Contact
 
