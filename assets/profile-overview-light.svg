@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title description">
   <title id="title">GitHub statistics and top languages for nassimfatnassi1999</title>
-  <desc id="description">Official public GitHub data, generated on Aug 10, 2026.</desc>
+  <desc id="description">Official public GitHub data, generated on Aug 17, 2026.</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     .title { fill: #1f2328; font-size: 22px; font-weight: 600; }
@@ -11,7 +11,7 @@
   <rect x="1" y="1" width="958" height="298" rx="14" fill="#ffffff" stroke="#d0d7de" />
   <text x="32" y="42" class="title">GitHub Stats</text>
   <text x="496" y="42" class="title">Top Languages</text>
-  <text x="32" y="65" class="subtitle">Official public data · Updated Aug 10, 2026</text>
+  <text x="32" y="65" class="subtitle">Official public data · Updated Aug 17, 2026</text>
   <line x1="466" y1="28" x2="466" y2="272" stroke="#d0d7de" />
   
         <text x="38" y="96" class="label">Public repositories</text>
